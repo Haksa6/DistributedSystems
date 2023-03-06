@@ -6,6 +6,7 @@ proxy = xmlrpc.client.ServerProxy("http://localhost:8000")
     
 while True:
     print("1. Create a new note")
+    print("2. Get info by a topic")
     print("3. Search and append information from Wikipedia")
     print("4. Exit")
         
