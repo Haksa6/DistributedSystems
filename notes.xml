@@ -1,0 +1,19 @@
+<data>
+  <topic name="Animal Things">
+    <note name="Dogs are better than cats 03">
+      <text> Dogs respond when you call their name (unlike cats, who just ignore you) </text>
+      <timestamp> 03/16/21 - 14:03:04 </timestamp>
+    </note>
+  </topic>
+  <topic name="123">
+    <note>
+      <text>123</text>
+      <timestamp>123</timestamp>
+    </note>
+    <note>
+      <text>123</text>
+      <timestamp>123</timestamp>
+    </note>
+<note>
+  <wikipedia_link>https://en.wikipedia.org/wiki/123</wikipedia_link></note></topic>
+<topic name="abc"><note><text>abc</text><timestamp>abc</timestamp></note></topic><topic name="as"><note><text>das</text><timestamp>2</timestamp></note></topic></data>
