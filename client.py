@@ -10,7 +10,7 @@ while True:
     print("3. Search and append information from Wikipedia")
     print("4. Exit")
         
-    choice = input("Enter your choice (1-3): ")
+    choice = input("Enter your choice (1-4): ")
         
     if choice == "1":
         # Ask the user for input and send it to the server
